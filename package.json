@@ -4,7 +4,6 @@
 	"description": "Andrew's amazing project",
 	"keywords": ["freecodecamp", "project", "first", "new"],
 	"license": ["MIT", "BSD"],
-	"licence": "
 	"dependencies": {
 		"express": "^4.14.0"
 	},
